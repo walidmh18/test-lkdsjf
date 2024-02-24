@@ -1,0 +1,18 @@
+
+.bv{
+   color: blueviolet;
+}
+
+label{
+   color: red;
+}
+
+h2{
+   font-size: 50px;
+   border: 5px red dotted  ;
+   font-family: 'Montserrat';
+}
+
+.w500{
+   width: 500px ;
+}
